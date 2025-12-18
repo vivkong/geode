@@ -19,7 +19,7 @@ name: develop-s390x
 
 on:
   push:
-    branches: [ "develop" ]
+    branches: [ "develop-s390x" ]
   pull_request:
     branches: [ "develop" ]
 
